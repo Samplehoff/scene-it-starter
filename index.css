@@ -14,3 +14,9 @@ body {
 	margin-top: 20px;
 }
 
+.movie {
+	display: inline-flex;
+	padding: 20px;
+	margin: 10px;
+}
+
